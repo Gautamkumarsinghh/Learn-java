@@ -1,5 +1,5 @@
 import java.util.*;
-
+//find a even and odd number
 import java.util.Scanner;
 
 public class conditional {
